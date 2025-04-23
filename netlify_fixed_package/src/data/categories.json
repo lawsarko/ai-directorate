@@ -1,0 +1,82 @@
+[
+  {
+    "id": "chatbots",
+    "name": "Chatbots",
+    "slug": "chatbots",
+    "description": "AI-powered conversational agents that can understand and respond to natural language inputs. These tools range from customer service assistants to advanced language models capable of complex reasoning and content generation.",
+    "icon": "chat-bubble",
+    "toolCount": 24,
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2025-03-10T00:00:00Z"
+  },
+  {
+    "id": "image-generation",
+    "name": "Image Generation",
+    "slug": "image-generation",
+    "description": "AI tools that create images from text descriptions or prompts. These systems can generate realistic photos, artwork, illustrations, and designs based on natural language inputs.",
+    "icon": "image",
+    "toolCount": 18,
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2025-03-10T00:00:00Z"
+  },
+  {
+    "id": "writing",
+    "name": "Writing",
+    "slug": "writing",
+    "description": "AI-powered writing assistants that help create, edit, and improve written content. These tools can generate blog posts, marketing copy, emails, and other text-based content.",
+    "icon": "pencil",
+    "toolCount": 15,
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2025-03-10T00:00:00Z"
+  },
+  {
+    "id": "productivity",
+    "name": "Productivity",
+    "slug": "productivity",
+    "description": "AI tools designed to enhance personal and team productivity. These include note-taking apps, task managers, and workflow automation tools with AI capabilities.",
+    "icon": "clipboard",
+    "toolCount": 12,
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2025-03-10T00:00:00Z"
+  },
+  {
+    "id": "video",
+    "name": "Video",
+    "slug": "video",
+    "description": "AI-powered video creation, editing, and enhancement tools. These include text-to-video generators, video editors with AI features, and tools for creating AI avatars and presentations.",
+    "icon": "video",
+    "toolCount": 10,
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2025-03-10T00:00:00Z"
+  },
+  {
+    "id": "coding",
+    "name": "Coding",
+    "slug": "coding",
+    "description": "AI tools that assist with programming and software development. These include code generators, AI pair programmers, and tools that help debug and optimize code.",
+    "icon": "code",
+    "toolCount": 8,
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2025-03-10T00:00:00Z"
+  },
+  {
+    "id": "marketing",
+    "name": "Marketing",
+    "slug": "marketing",
+    "description": "AI tools designed for marketing professionals. These include content generators, social media assistants, and tools for creating and optimizing marketing campaigns.",
+    "icon": "megaphone",
+    "toolCount": 14,
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2025-03-10T00:00:00Z"
+  },
+  {
+    "id": "voice",
+    "name": "Voice & Audio",
+    "slug": "voice-audio",
+    "description": "AI tools for voice synthesis, text-to-speech, and audio generation. These include voice cloning tools, AI voiceovers, and tools for creating and editing audio content.",
+    "icon": "microphone",
+    "toolCount": 9,
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2025-03-10T00:00:00Z"
+  }
+]

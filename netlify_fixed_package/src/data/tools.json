@@ -1,0 +1,249 @@
+[
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "slug": "chatgpt",
+    "description": "ChatGPT is an advanced AI chatbot developed by OpenAI that uses natural language processing to create humanlike conversational dialogue. The language model can respond to questions and compose various kinds of written content, including articles, social media posts, essays, code, and emails.",
+    "shortDescription": "Conversational AI chatbot",
+    "logoUrl": "/images/tools/chatgpt.png",
+    "websiteUrl": "https://chat.openai.com/",
+    "categoryIds": ["chatbots", "writing", "coding"],
+    "features": [
+      "Natural language understanding",
+      "Multi-turn conversations",
+      "Code generation",
+      "Content creation",
+      "Multiple languages support",
+      "API access",
+      "Plugin ecosystem"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "startingPrice": 20,
+      "hasFreeTier": true,
+      "priceTiers": [
+        {
+          "name": "Free",
+          "price": 0,
+          "billingPeriod": "monthly",
+          "features": ["Access to GPT-3.5", "Standard response speed", "Standard availability"]
+        },
+        {
+          "name": "Plus",
+          "price": 20,
+          "billingPeriod": "monthly",
+          "features": ["Access to GPT-4", "Faster response speed", "Priority access during peak times", "Access to plugins"]
+        }
+      ]
+    },
+    "screenshots": ["/images/screenshots/chatgpt-1.png", "/images/screenshots/chatgpt-2.png"],
+    "createdAt": "2022-11-30T00:00:00Z",
+    "updatedAt": "2025-03-15T00:00:00Z",
+    "averageRating": 4.8,
+    "reviewCount": 1245,
+    "integrationCapabilities": ["API", "Plugins", "Browser extensions"],
+    "isFeatured": true,
+    "isTrending": true,
+    "affiliateLink": "https://chat.openai.com/?ref=aidirectorate"
+  },
+  {
+    "id": "dall-e",
+    "name": "DALL-E",
+    "slug": "dall-e",
+    "description": "DALL-E is an AI system developed by OpenAI that can create realistic images and art from a description in natural language. The latest version, DALL-E 3, can generate highly detailed and accurate images based on text prompts, with improved understanding of spatial relationships and complex scenes.",
+    "shortDescription": "AI image generation tool",
+    "logoUrl": "/images/tools/dall-e.png",
+    "websiteUrl": "https://openai.com/dall-e-3",
+    "categoryIds": ["image-generation"],
+    "features": [
+      "Text-to-image generation",
+      "High-resolution outputs",
+      "Complex prompt handling",
+      "Style customization",
+      "Multiple aspect ratios",
+      "Commercial usage rights",
+      "API access"
+    ],
+    "pricing": {
+      "model": "paid",
+      "startingPrice": 0.02,
+      "hasFreeTier": false,
+      "priceTiers": [
+        {
+          "name": "Pay-as-you-go",
+          "price": 0.02,
+          "billingPeriod": "one-time",
+          "features": ["Per-image pricing", "Standard resolution", "Commercial usage rights"]
+        }
+      ]
+    },
+    "screenshots": ["/images/screenshots/dall-e-1.png", "/images/screenshots/dall-e-2.png"],
+    "createdAt": "2021-01-05T00:00:00Z",
+    "updatedAt": "2025-02-10T00:00:00Z",
+    "averageRating": 4.7,
+    "reviewCount": 892,
+    "integrationCapabilities": ["API", "ChatGPT integration"],
+    "isFeatured": true,
+    "isTrending": true,
+    "affiliateLink": "https://openai.com/dall-e-3?ref=aidirectorate"
+  },
+  {
+    "id": "midjourney",
+    "name": "Midjourney",
+    "slug": "midjourney",
+    "description": "Midjourney is an independent research lab that produces an AI program that creates images from textual descriptions. Known for its artistic style and high-quality outputs, Midjourney has become popular among designers, artists, and creative professionals for generating stunning visuals from simple text prompts.",
+    "shortDescription": "High-quality AI image generation",
+    "logoUrl": "/images/tools/midjourney.png",
+    "websiteUrl": "https://www.midjourney.com/",
+    "categoryIds": ["image-generation"],
+    "features": [
+      "Text-to-image generation",
+      "Artistic style emphasis",
+      "High-resolution outputs",
+      "Style customization",
+      "Multiple aspect ratios",
+      "Discord integration",
+      "Commercial usage rights"
+    ],
+    "pricing": {
+      "model": "subscription",
+      "startingPrice": 10,
+      "hasFreeTier": false,
+      "priceTiers": [
+        {
+          "name": "Basic",
+          "price": 10,
+          "billingPeriod": "monthly",
+          "features": ["200 GPU minutes", "Standard queue", "Basic features"]
+        },
+        {
+          "name": "Standard",
+          "price": 30,
+          "billingPeriod": "monthly",
+          "features": ["15 GPU hours", "Fast queue", "All features"]
+        },
+        {
+          "name": "Pro",
+          "price": 60,
+          "billingPeriod": "monthly",
+          "features": ["30 GPU hours", "Fastest queue", "All features", "Private visibility"]
+        }
+      ]
+    },
+    "screenshots": ["/images/screenshots/midjourney-1.png", "/images/screenshots/midjourney-2.png"],
+    "createdAt": "2022-03-15T00:00:00Z",
+    "updatedAt": "2025-01-20T00:00:00Z",
+    "averageRating": 4.9,
+    "reviewCount": 1056,
+    "integrationCapabilities": ["Discord", "API (limited)"],
+    "isFeatured": true,
+    "isTrending": true,
+    "affiliateLink": "https://www.midjourney.com/?ref=aidirectorate"
+  },
+  {
+    "id": "copy-ai",
+    "name": "Copy.ai",
+    "slug": "copy-ai",
+    "description": "Copy.ai is an AI-powered copywriting assistant that helps create marketing copy, social media content, blog posts, and more. Using advanced language models, it generates high-quality content based on brief inputs, helping marketers and content creators save time and overcome writer's block.",
+    "shortDescription": "AI-powered copywriting assistant",
+    "logoUrl": "/images/tools/copy-ai.png",
+    "websiteUrl": "https://www.copy.ai/",
+    "categoryIds": ["writing", "marketing"],
+    "features": [
+      "Marketing copy generation",
+      "Blog content creation",
+      "Social media posts",
+      "Email writing",
+      "Multiple languages support",
+      "Templates library",
+      "Team collaboration"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "startingPrice": 36,
+      "hasFreeTier": true,
+      "priceTiers": [
+        {
+          "name": "Free",
+          "price": 0,
+          "billingPeriod": "monthly",
+          "features": ["2,000 words per month", "Basic templates", "Single user"]
+        },
+        {
+          "name": "Pro",
+          "price": 36,
+          "billingPeriod": "monthly",
+          "features": ["Unlimited words", "All templates", "5 users", "Priority support"]
+        },
+        {
+          "name": "Enterprise",
+          "price": 0,
+          "billingPeriod": "monthly",
+          "features": ["Custom solutions", "Dedicated account manager", "API access"]
+        }
+      ]
+    },
+    "screenshots": ["/images/screenshots/copy-ai-1.png", "/images/screenshots/copy-ai-2.png"],
+    "createdAt": "2020-12-01T00:00:00Z",
+    "updatedAt": "2025-03-05T00:00:00Z",
+    "averageRating": 4.6,
+    "reviewCount": 785,
+    "integrationCapabilities": ["API", "Chrome extension"],
+    "isFeatured": false,
+    "isTrending": true,
+    "affiliateLink": "https://www.copy.ai/?via=aidirectorate"
+  },
+  {
+    "id": "notion",
+    "name": "Notion",
+    "slug": "notion",
+    "description": "Notion is an all-in-one workspace that combines notes, documents, wikis, and project management. With the addition of AI features, Notion now offers AI writing assistance, summarization, and content organization capabilities, making it a powerful productivity tool enhanced by artificial intelligence.",
+    "shortDescription": "App for notes, tasks, and more",
+    "logoUrl": "/images/tools/notion.png",
+    "websiteUrl": "https://www.notion.so/",
+    "categoryIds": ["productivity", "writing"],
+    "features": [
+      "Note-taking",
+      "Project management",
+      "Wiki creation",
+      "AI writing assistance",
+      "Content summarization",
+      "Templates library",
+      "Team collaboration"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "startingPrice": 8,
+      "hasFreeTier": true,
+      "priceTiers": [
+        {
+          "name": "Free",
+          "price": 0,
+          "billingPeriod": "monthly",
+          "features": ["Basic blocks", "Page sharing", "Single user"]
+        },
+        {
+          "name": "Plus",
+          "price": 8,
+          "billingPeriod": "monthly",
+          "features": ["Unlimited blocks", "File uploads", "Unlimited guests"]
+        },
+        {
+          "name": "Business",
+          "price": 15,
+          "billingPeriod": "monthly",
+          "features": ["Advanced permissions", "Audit log", "Bulk PDF export"]
+        }
+      ]
+    },
+    "screenshots": ["/images/screenshots/notion-1.png", "/images/screenshots/notion-2.png"],
+    "createdAt": "2018-06-01T00:00:00Z",
+    "updatedAt": "2025-02-15T00:00:00Z",
+    "averageRating": 4.8,
+    "reviewCount": 1532,
+    "integrationCapabilities": ["API", "Zapier", "Slack", "Google Drive"],
+    "isFeatured": true,
+    "isTrending": false,
+    "affiliateLink": "https://www.notion.so/?ref=aidirectorate"
+  }
+]

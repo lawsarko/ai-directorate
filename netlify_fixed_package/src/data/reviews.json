@@ -1,0 +1,142 @@
+[
+  {
+    "id": "review1",
+    "toolId": "chatgpt",
+    "userId": "user1",
+    "rating": 5,
+    "title": "Game-changing AI assistant",
+    "content": "ChatGPT has completely transformed how I work. It helps me draft emails, summarize long documents, and even helps with coding problems. The GPT-4 model in the Plus subscription is significantly better than the free version and worth every penny.",
+    "pros": [
+      "Incredibly versatile",
+      "Excellent at understanding context",
+      "Constantly improving with updates"
+    ],
+    "cons": [
+      "Can occasionally provide incorrect information",
+      "Sometimes slow during peak hours",
+      "Knowledge cutoff limits recent information"
+    ],
+    "featureRatings": {
+      "easeOfUse": 5,
+      "valueForMoney": 4.5,
+      "customerSupport": 3.5,
+      "features": 5
+    },
+    "createdAt": "2025-01-15T00:00:00Z",
+    "updatedAt": "2025-01-15T00:00:00Z",
+    "helpfulCount": 42,
+    "verifiedPurchase": true
+  },
+  {
+    "id": "review2",
+    "toolId": "dall-e",
+    "userId": "user2",
+    "rating": 4.5,
+    "title": "Amazing image generation with some limitations",
+    "content": "DALL-E 3 produces stunning images that are significantly better than previous versions. The ability to understand complex prompts and spatial relationships is impressive. However, it still struggles with certain concepts and text rendering within images.",
+    "pros": [
+      "High-quality image generation",
+      "Excellent prompt understanding",
+      "Fast generation time"
+    ],
+    "cons": [
+      "Struggles with text in images",
+      "Can be expensive for high volume use",
+      "Limited editing capabilities"
+    ],
+    "featureRatings": {
+      "easeOfUse": 4.5,
+      "valueForMoney": 4,
+      "customerSupport": 3,
+      "features": 4.5
+    },
+    "createdAt": "2025-02-20T00:00:00Z",
+    "updatedAt": "2025-02-20T00:00:00Z",
+    "helpfulCount": 28,
+    "verifiedPurchase": true
+  },
+  {
+    "id": "review3",
+    "toolId": "midjourney",
+    "userId": "user3",
+    "rating": 5,
+    "title": "The gold standard for AI art generation",
+    "content": "Midjourney consistently produces the most artistic and visually appealing images of any AI generator I've used. The v6 model is incredible at understanding style references and creating cohesive scenes. The Discord-based interface has a learning curve but offers great community interaction.",
+    "pros": [
+      "Unmatched artistic quality",
+      "Excellent style understanding",
+      "Active community for inspiration"
+    ],
+    "cons": [
+      "Discord interface can be confusing for beginners",
+      "More expensive than some alternatives",
+      "Queue times can be long during peak hours"
+    ],
+    "featureRatings": {
+      "easeOfUse": 3.5,
+      "valueForMoney": 4.5,
+      "customerSupport": 4,
+      "features": 5
+    },
+    "createdAt": "2025-03-05T00:00:00Z",
+    "updatedAt": "2025-03-05T00:00:00Z",
+    "helpfulCount": 36,
+    "verifiedPurchase": true
+  },
+  {
+    "id": "review4",
+    "toolId": "copy-ai",
+    "userId": "user4",
+    "rating": 4,
+    "title": "Great for marketing copy, needs refinement for longer content",
+    "content": "Copy.ai excels at creating short-form marketing copy like headlines, product descriptions, and social media posts. It's a huge time-saver for these tasks. However, longer content often needs significant editing to maintain coherence and brand voice.",
+    "pros": [
+      "Excellent for short-form copy",
+      "Intuitive interface",
+      "Good template variety"
+    ],
+    "cons": [
+      "Long-form content needs heavy editing",
+      "Limited customization for brand voice",
+      "Occasional repetitive outputs"
+    ],
+    "featureRatings": {
+      "easeOfUse": 4.5,
+      "valueForMoney": 4,
+      "customerSupport": 3.5,
+      "features": 4
+    },
+    "createdAt": "2025-01-30T00:00:00Z",
+    "updatedAt": "2025-01-30T00:00:00Z",
+    "helpfulCount": 19,
+    "verifiedPurchase": true
+  },
+  {
+    "id": "review5",
+    "toolId": "notion",
+    "userId": "user5",
+    "rating": 4.5,
+    "title": "The ultimate workspace with powerful AI features",
+    "content": "Notion has transformed from a great note-taking app to an essential workspace with its AI capabilities. The AI writing assistant and summarization features save hours of work. The flexibility to create any type of content structure is unmatched, though it can be overwhelming for new users.",
+    "pros": [
+      "Extremely flexible and customizable",
+      "Powerful AI writing assistance",
+      "Excellent for team collaboration"
+    ],
+    "cons": [
+      "Steep learning curve for new users",
+      "Can be slow with large databases",
+      "Mobile app needs improvement"
+    ],
+    "featureRatings": {
+      "easeOfUse": 3.5,
+      "valueForMoney": 5,
+      "customerSupport": 4,
+      "features": 5
+    },
+    "createdAt": "2025-02-10T00:00:00Z",
+    "updatedAt": "2025-02-10T00:00:00Z",
+    "helpfulCount": 31,
+    "verifiedPurchase": true
+  }
+]

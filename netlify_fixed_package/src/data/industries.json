@@ -1,0 +1,107 @@
+[
+  {
+    "id": "medical",
+    "name": "Medical",
+    "icon": "medical",
+    "description": "AI tools for healthcare professionals, medical research, patient care, and health management",
+    "toolCount": 42
+  },
+  {
+    "id": "legal",
+    "name": "Legal",
+    "icon": "legal",
+    "description": "AI tools for legal research, document analysis, contract review, and legal practice management",
+    "toolCount": 38
+  },
+  {
+    "id": "finance",
+    "name": "Finance",
+    "icon": "finance",
+    "description": "AI tools for financial analysis, investment, banking, personal finance, and financial planning",
+    "toolCount": 56
+  },
+  {
+    "id": "accounting",
+    "name": "Accounting",
+    "icon": "accounting",
+    "description": "AI tools for bookkeeping, tax preparation, financial reporting, and accounting automation",
+    "toolCount": 29
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "icon": "education",
+    "description": "AI tools for teaching, learning, educational content creation, and academic research",
+    "toolCount": 47
+  },
+  {
+    "id": "marketing",
+    "name": "Marketing",
+    "icon": "marketing",
+    "description": "AI tools for content marketing, social media, SEO, analytics, and campaign management",
+    "toolCount": 63
+  },
+  {
+    "id": "hr",
+    "name": "Human Resources",
+    "icon": "hr",
+    "description": "AI tools for recruitment, employee management, training, and HR administration",
+    "toolCount": 31
+  },
+  {
+    "id": "engineering",
+    "name": "Engineering",
+    "icon": "engineering",
+    "description": "AI tools for design, simulation, modeling, and engineering project management",
+    "toolCount": 44
+  },
+  {
+    "id": "real-estate",
+    "name": "Real Estate",
+    "icon": "real-estate",
+    "description": "AI tools for property management, valuation, market analysis, and real estate marketing",
+    "toolCount": 27
+  },
+  {
+    "id": "social-work",
+    "name": "Social Work",
+    "icon": "social-work",
+    "description": "AI tools for case management, resource allocation, community support, and social services",
+    "toolCount": 18
+  },
+  {
+    "id": "research",
+    "name": "Scientific Research",
+    "icon": "research",
+    "description": "AI tools for data analysis, literature review, experiment design, and research collaboration",
+    "toolCount": 52
+  },
+  {
+    "id": "journalism",
+    "name": "Journalism",
+    "icon": "journalism",
+    "description": "AI tools for news gathering, fact-checking, content creation, and media analysis",
+    "toolCount": 24
+  },
+  {
+    "id": "agriculture",
+    "name": "Agriculture",
+    "icon": "agriculture",
+    "description": "AI tools for crop management, livestock monitoring, farm automation, and agricultural planning",
+    "toolCount": 21
+  },
+  {
+    "id": "hospitality",
+    "name": "Hospitality",
+    "icon": "hospitality",
+    "description": "AI tools for hotel management, guest services, booking systems, and hospitality marketing",
+    "toolCount": 19
+  },
+  {
+    "id": "manufacturing",
+    "name": "Manufacturing",
+    "icon": "manufacturing",
+    "description": "AI tools for production optimization, quality control, supply chain management, and automation",
+    "toolCount": 36
+  }
+]
